@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to compose `for` and `while` loops. 
 
 Looping is a control flow mechanism that will repeat a set of actions until a condition is met or while a condition is truthy.
 

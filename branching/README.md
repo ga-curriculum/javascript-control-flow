@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to compose branching logic statements.
 
 Branching is a type of control flow that allows for different code paths to be executed based on specific conditions.
 
