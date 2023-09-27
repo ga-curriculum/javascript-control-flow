@@ -10,7 +10,7 @@ Looping statements allow us to execute a block of code multiple times, and are a
 
 ## for
 
-A for loop repeats until a specific condition evaluates to false. 
+A `for` loop repeats until a specific condition evaluates to false. `for` loops are commonly used to run a block of code a specified number of times. 
 
 The syntax is as follows: 
 
@@ -43,7 +43,17 @@ for (let number = 1; number < 10; number++) {
 
 ## while
 
+The `while` loop is the go to when the number of iterations is unknown.
+
 Both the `for` and `while` statements require a conditional expression. `while` loops only specify the `conditionExpression`: 
+
+```javascript
+while (/* conditional expression */) {
+  // statement block
+}
+```
+
+We can refactor our previous example to a `while` loop: 
 
 ```javascript
 let number = 1
@@ -66,6 +76,21 @@ while (number <= 10) {
 
 As written, `number` will never be larger than or equal to 10, so this `while` loop will run forever, endlessly logging the number 1 until the end of time (or until we tell it to stop). 
 
-
 > 🧠 An infinite loop (or endless loop) is a sequence of code that will continue endlessly. 
+
+## You Do 🧠 
+
+Write a `for` loop that iterates from 1 - 20 and logs out whether each number in the range is even or odd.
+
+Sample Output: 
+```bash
+1 is odd 
+2 is even
+3 is odd
+4 is even
+[...]
+20 is even
+```
+
+If you need a hint, check out this documentation on the [remainder operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder)
 
