@@ -20,7 +20,7 @@ for (initialExpression; conditionExpression; incrementExpression) {
 }
 ```
 
-When a for loop executes, the following occurs:
+When a `for` loop executes, the following occurs:
 1. The initializing expression `initialExpression`, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
 2. The `conditionExpression` expression is evaluated. If the value of `conditionExpression` is truthy, the loop `statement` executes. If the value of `conditionExpression` is falsy, the `for` loop terminates.
 3. The `statement` executes. Use curly brackets (`{ ... }`) to encapsulate the `statement`.
