@@ -2,4 +2,24 @@
 
 ![Hero image](./assets/hero.png)
 
-tktk optional student-facing level up content should be added here. Not all modules will have Level Up content - if it doesn't, the `level-up` directory should be deleted, and the Level Up section in the main `README.md` file should be removed.
+The ternary operator is ideal when you need to return one of two values depending upon a condition:
+
+```javascript
+let message = score > 100 ? "You rock!" : "Keep trying!"
+```
+
+The above one line of code replaces this code:
+
+```javascript
+let message
+if (score > 100) {
+  message = "You rock!"
+} else {
+  message = "Keep trying!"
+}
+```
+
+The ternary operator can also be used to evaluate one of two expressions, so you can run a method if you’d like:
+```javascript
+score > 100 ? gameWinner() : gameLoop()
+```
