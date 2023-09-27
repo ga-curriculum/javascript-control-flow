@@ -2,4 +2,13 @@
 
 ![Hero image](./assets/hero.png)
 
-tktk optional student-facing level up content should be added here. Not all modules will have Level Up content - if it doesn't, the `level-up` directory should be deleted, and the Level Up section in the main `README.md` file should be removed.
+`do`...`while` loops are very similar to `while` loops, except they force the code block to execute at least once, regardless of the condition being truthy or falsy. 
+
+```javascript
+let num = 0
+    
+do {
+  console.log(num + ' is even')
+  num += 2
+} while (num <= 10)
+```
