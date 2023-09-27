@@ -44,6 +44,10 @@ There are two primary equality comparison operators in JavaScript:
 - `===` - Strict Equality (best practice)
 - `==` - Loose Equality (performs type conversion)
 
+When used in conjunction with the NOT operator: 
+- `!==` - Strict Inequality
+- `!=` - Loose Inequality
+
 
 The strict equality operator (commonly called 'triple equals') compares the values of the left and right operands and returns `true` if they have the same value. 
 
@@ -53,6 +57,7 @@ If the values have different types, then the operator returns `false`.
 3 === 3   // true
 3 === 4   // false
 3 === '3' // false 
+3 !== 4   // true
 ```
 
 The loose equality operator (commonly called 'double equals') will perform a type conversion (if needed) when it compares its left and right operands: 
@@ -71,4 +76,36 @@ In the above example, JavaScript will [coerce](https://developer.mozilla.org/en-
 
 Typically, it is best to avoid using the double equals operator - we will rarely be in a position where the type of our data is irrelevant or interchangeable. Use strict equality/triple equals as best practice!
 
+## Relational Operators
+
+JavaScript also has a host of relational operators: 
+
+- `<` - Less than
+- `>` - Greater than
+- `<=` - Less than or equal to
+- `>=` - Greater than or equal to
+
+```javascript
+3 < 4       // true
+3 > 4       // false
+10 >= 5 + 5 // true
+```
+
+## Logical Operators
+
+The logical operators `||` and `&&` are more powerful than meets the eye.
+
+The logical `||` (OR) operator always returns the first operand if it is truthy; otherwise, the second operand is returned:
+
+```javascript
+'hello' || 'goodbye'  // evaluates to 'hello'
+0 || null  // evaluates to null
+```
+
+The logical `&&` (AND) operator always returns the first operand if it is falsy, otherwise the second operand will be returned:
+
+```javascript
+'hello' && 'goodbye'  // evaluates to 'goodbye'
+0 && null  // evaluates to 0
+```
 
