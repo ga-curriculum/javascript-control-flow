@@ -1,4 +1,4 @@
-# Control Flow in JavaScript - Level Up - tktk Microlesson Name
+# Control Flow in JavaScript - Level Up - Switch Statements
 
 ![Hero image](./assets/hero.png)
 

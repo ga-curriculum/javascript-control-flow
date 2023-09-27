@@ -1,4 +1,4 @@
-# Control Flow in JavaScript - Level Up - tktk Microlesson Name
+# Control Flow in JavaScript - Level Up - 'break' and 'continue' Statements
 
 ![Hero image](./assets/hero.png)
 

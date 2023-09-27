@@ -1,4 +1,4 @@
-# Control Flow in JavaScript - Level Up - tktk Microlesson Name
+# Control Flow in JavaScript - Level Up - 'do...while'
 
 ![Hero image](./assets/hero.png)
 

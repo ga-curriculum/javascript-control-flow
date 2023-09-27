@@ -1,4 +1,4 @@
-# Control Flow in JavaScript - Level Up - tktk Microlesson Name
+# Control Flow in JavaScript - Level Up - Ternary Operator
 
 ![Hero image](./assets/hero.png)
 
