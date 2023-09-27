@@ -14,7 +14,6 @@ In other words, the control flow is the order in which statements are executed.
 
 By default, code is executed from the top line in the file down to the last line. There are, however, many instances where we will need to change or manipulate this order to accomplish a specific task. 
 
-
 ## Basic types of control flow
 
 **Sequence**: Statements execute one at a time in succession.

@@ -11,7 +11,6 @@ tktk What is the takeaway of this module?
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
 | [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [Operators](./operators/README.md) | tktk min | [tktk Link]() | tktk LO |
 | [Boolean Logic](./boolean-logic/README.md) | tktk min | [tktk Link]() | tktk LO |
 | [Truthy and Falsy](./truthy-and-falsy/README.md) | tktk min | [tktk Link]() | tktk LO |
 | [Branching](./branching/README.md) | tktk min | [tktk Link]() | tktk LO |
