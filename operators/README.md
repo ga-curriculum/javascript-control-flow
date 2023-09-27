@@ -1,4 +1,4 @@
-# Control Flow in JavaScript - tktk Microlesson Name
+# Control Flow in JavaScript - Operators
 
 ![Hero image](./assets/hero.png)
 
