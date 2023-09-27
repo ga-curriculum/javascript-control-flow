@@ -4,17 +4,17 @@
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module introduces control flow in JavaScript.
 
 ## Content outline
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [Truthy and Falsy](./truthy-and-falsy/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [Boolean Logic](./boolean-logic/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [Branching](./branching/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [Looping](./looping/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Clearly define the concept and significance of control flow in JavaScript. |
+| [Truthy and Falsy](./truthy-and-falsy/README.md) | tktk min | [tktk Link]() | Clearly define the concept of truthy and falsy. |
+| [Boolean Logic](./boolean-logic/README.md) | tktk min | [tktk Link]() | Use comparison operators to evaluate operands. |
+| [Branching](./branching/README.md) | tktk min | [tktk Link]() | Compose branching logic statements. |
+| [Looping](./looping/README.md) | tktk min | [tktk Link]() | Understand and work with looping statements. |
 |  **Total Module**                                        | tktk min | --            | ---     |
 
 ## Additional content 
