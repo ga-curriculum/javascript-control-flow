@@ -2,4 +2,6 @@
 
 ![Hero image](./assets/hero.png)
 
-tktk optional student-facing level up content should be added here. Not all modules will have Level Up content - if it doesn't, the `level-up` directory should be deleted, and the Level Up section in the main `README.md` file should be removed.
+Look into using the `switch` statement instead of `if`...`else` if you have more than three code paths, and your conditionals always check the same variable.
+
+Here’s the documentation for the [switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch).
