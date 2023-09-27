@@ -1,4 +1,4 @@
-# [tktk Module Name]
+# Control Flow in JavaScript
 
 ![Hero image](./assets/tktkhero-main.png)
 

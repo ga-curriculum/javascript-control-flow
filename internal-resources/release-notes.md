@@ -1,4 +1,4 @@
-# [tktk Module Name] - Release Notes
+# Control Flow in JavaScript - Release Notes
 
 ![Hero image](../assets/tktkhero-secondary.png)
 

@@ -1,4 +1,4 @@
-# [tktk Module Name] - Instructor Guide
+# Control Flow in JavaScript - Instructor Guide
 
 ![Hero image](../assets/tktkhero-secondary.png)
 

@@ -1,4 +1,4 @@
-# [tktk Module Name] - Level Up - tktk Microlesson Name
+# Control Flow in JavaScript - Level Up - tktk Microlesson Name
 
 ![Hero image](./assets/hero.png)
 

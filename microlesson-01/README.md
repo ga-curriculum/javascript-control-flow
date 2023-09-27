@@ -1,4 +1,4 @@
-# [tktk Module Name] - tktk Microlesson Name
+# Control Flow in JavaScript - tktk Microlesson Name
 
 ![Hero image](./assets/hero.png)
 
