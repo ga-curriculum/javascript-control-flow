@@ -14,22 +14,18 @@ A `for` loop repeats until a specific condition evaluates to false. `for` loops 
 
 The syntax is as follows: 
 
-```javascript
-for (initialExpression; conditionExpression; incrementExpression) {
-  statement
-}
-```
+<img src="./assets/for-syntax.png" alt="for loop syntax">
 
-When a `for` loop executes, the following occurs:
-1. The initializing expression `initialExpression`, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
-2. The `conditionExpression` expression is evaluated. If the value of `conditionExpression` is truthy, the loop `statement` executes. If the value of `conditionExpression` is falsy, the `for` loop terminates.
-3. The `statement` executes. Use curly brackets (`{ ... }`) to encapsulate the `statement`.
-4. The update expression `incrementExpression` is executed.
-5. Control returns to Step 2.
+1. The `for` keyword.
+2. `initialization` - An expression or variable declaration evaluated once before the loop begins. Typically used to initialize a counter variable. Variables declared with let are local to the statement.
+3. `condition` - An expression to be evaluated before each loop iteration. If this expression evaluates to true, statement is executed. If the expression evaluates to false, execution exits the loop.
+4. `afterthought` - An expression to be evaluated at the end of each loop iteration. This occurs before the next evaluation of condition. Generally used to update or increment the counter variable.
+5. A code block, if executing multiple statements.
+6. Statements to be executed as long as the condition evaluates to true.
 
 <br>
 
-Let's examine the syntax with an example: 
+Next, let's examine the order of operation for a `for` loop, with an example:
 
 ```javascript
 for (let number = 1; number < 10; number++) {
@@ -37,18 +33,22 @@ for (let number = 1; number < 10; number++) {
 }
 ```
 
-1. The `initialExpression` runs only once before looping begins. It is used to declare and initialize a looping variable. In this example, a new variable named `number` is initialized with the value `1`. 
-2. The `conditionExpression` will be evaluated before each loop. If truthy, the code block will execute. At the start of this loop, `number` was just initialized as 1, so `number < 10` is truthy. 
-3. The `incrementExpression` will execute after each loop. Typically this increments the looping variable by one, but any kind of expression can be used here.
+1. The `initialization` runs only once before looping begins. It is used to declare and initialize a looping variable. In this example, a new variable named `number` is initialized with the value `1`.
+2. The `condition` expression is evaluated. If truthy, the code block will execute. At the start of this loop, `number` was just initialized as 1, so `number < 10` is truthy. If the value of `condition` is falsy, the `for` loop terminates.
+3. The `statement` executes. 
+4. The update expression `afterthought` is executed. In this example, `number` is [incremented](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment) by 1 whenever the `afterthought` is executed. 
+5. Control returns to Step 2.
+
+<br>
 
 ## while
 
 The `while` loop is the go to when the number of iterations is unknown.
 
-Both the `for` and `while` statements require a conditional expression. `while` loops only specify the `conditionExpression`: 
+Unlike a `for` loop, `while` loops only specify the `condition`: 
 
 ```javascript
-while (/* conditional expression */) {
+while (/* condition */) {
   // statement block
 }
 ```
@@ -62,7 +62,7 @@ while (number <= 10) {
 	number++
 }
 ```
-Where, `x <= 10` is the conditional expression. 
+Where, `x <= 10` is the `condition`. 
 
 You'll notice that a `for` loop and a `while` loop work similarly, but where a `for` loop specifies all of the loop parameters up front, a `while` loop allows for more freedom in composition. This is perhaps why `while` loops are especially susceptible to causing __infinite loops__. 
 
