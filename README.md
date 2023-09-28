@@ -1,18 +1,20 @@
-# [tktk Module Name]
+# Control Flow in JavaScript
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module introduces control flow in JavaScript.
 
 ## Content outline
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk LO |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk LO |
+| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Clearly define the concept and significance of control flow in JavaScript. |
+| [Truthy and Falsy](./truthy-and-falsy/README.md) | tktk min | [tktk Link]() | Clearly define the concept of truthy and falsy. |
+| [Boolean Logic](./boolean-logic/README.md) | tktk min | [tktk Link]() | Use comparison operators to evaluate operands. |
+| [Branching](./branching/README.md) | tktk min | [tktk Link]() | Compose branching logic statements. |
+| [Looping](./looping/README.md) | tktk min | [tktk Link]() | Understand and work with looping statements. |
 |  **Total Module**                                        | tktk min | --            | ---     |
 
 ## Additional content 
@@ -21,9 +23,10 @@ tktk What is the takeaway of this module?
 
 ### 🚀 Level Up
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+- [Ternary Operator](./level-up/ternary-operator.md)
+- [Switch Statement](./level-up/switch.md)
+- ['do... while'](./level-up/do-while.md)
+- ['break' and 'continue' Statements](./level-up/break-continue.md)
 
 ## Internal resources
 

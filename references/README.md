@@ -1,4 +1,4 @@
-# [tktk Module Name] - References
+# Control Flow in JavaScript - References
 
 ![Hero image](./assets/hero.png)
 

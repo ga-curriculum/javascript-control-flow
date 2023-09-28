@@ -1,4 +1,4 @@
-# [tktk Module Name] - Video Hub
+# Control Flow in JavaScript - Video Hub
 
 ![Hero image](../../assets/tktkhero-secondary.png)
 
