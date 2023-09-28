@@ -16,6 +16,8 @@ By default, code is executed from the top line in the file down to the last line
 
 ## Basic types of control flow
 
+[tktk add assets - line, fork, circle]
+
 **Sequence**: Statements execute one at a time in succession.
 
 **Branching**: Different code paths are executed based upon a conditional expression.

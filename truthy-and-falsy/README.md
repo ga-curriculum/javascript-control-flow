@@ -2,9 +2,9 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will understand the difference between boolean `true`/`false` and truthy/falsy values. 
+**Learning objective:** By the end of this lesson, students will understand the concept of truthy/falsy values. 
 
-JavaScript has the primitive `boolean` values of `true` and `false`, but it also has the idea of __truthy__ and __falsy__. So what are truthy and falsy, and why don't we just use `true` and `false`?
+JavaScript has the primitive `boolean` values of `true` and `false`, but it also has the idea of __truthy__ and __falsy__. So what are truthy and falsy, and why don't we just use `true` and `false` for everything?
 
 Truthy and falsy are conceptual and attempt to treat non-boolean expressions as booleans (`true` or `false`) during runtime. 
 
