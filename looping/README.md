@@ -33,13 +33,17 @@ for (let number = 1; number < 10; number++) {
 }
 ```
 
-1. The `initialization` runs only once before looping begins. It is used to declare and initialize a looping variable. In this example, a new variable named `number` is initialized with the value `1`.
-2. The `condition` expression is evaluated. If truthy, the code block will execute. At the start of this loop, `number` was just initialized as 1, so `number < 10` is truthy. If the value of `condition` is falsy, the `for` loop terminates.
-3. The `statement` executes. 
-4. The update expression `afterthought` is executed. In this example, `number` is [incremented](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment) by 1 whenever the `afterthought` is executed. 
-5. Control returns to Step 2.
+#### Step 1 
+The `initialization` runs once before looping begins. It is used to declare and initialize a looping variable - in this example, a new variable named `number` is initialized with the value `1`.
+#### Step 2
+The `condition` expression is evaluated. If truthy, the code block will execute. At the start of this loop, `number` was just initialized as 1, so `number < 10` is truthy. If the value of `condition` is falsy, the `for` loop terminates. 
+#### Step 3
+The `statement` executes. 
+#### Step 4 
+The update expression `afterthought` is executed. In this example, `number` is [incremented](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment) by 1 whenever the `afterthought` is executed. 
+#### Step 5 
+Control returns to Step 2.
 
-<br>
 
 ## while
 
