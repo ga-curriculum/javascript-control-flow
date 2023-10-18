@@ -4,7 +4,7 @@
 
 **Learning objective:** By the end of this lesson, students will understand the concept of truthy/falsy values. 
 
-JavaScript has the primitive `boolean` values of `true` and `false`, but it also has the idea of __truthy__ and __falsy__. So what are truthy and falsy, and why don't we just use `true` and `false` for everything?
+JavaScript has the primitive `boolean` values of `true` and `false`, but it also has the idea of ***truthy*** and ***falsy***. So what are truthy and falsy, and why don't we just use `true` and `false` for everything?
 
 Truthy and falsy are conceptual and attempt to treat non-boolean expressions as booleans (`true` or `false`) during runtime. 
 
@@ -15,8 +15,6 @@ Most things in JS are truthy, so it's easier to remember what is falsy:
   `false`, `0`(zero), `NaN` ('Not a Number' - a special value of number), and `""` (an empty string - note that a string with a value of a space is not empty).
 
 Everything else is truthy!
-
-<br>
 
 The concept of truthiness/falsyness will often allow us to write more concise code, as it ensures that we can write conditions that check a value itself rather than what that value would "equal". 
 

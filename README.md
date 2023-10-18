@@ -10,12 +10,12 @@ This module introduces control flow in JavaScript.
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [Concepts](./concepts/README.md) | tktk min | [tktk Link]() | Clearly define the concept and significance of control flow in JavaScript. |
-| [Truthy and Falsy](./truthy-and-falsy/README.md) | tktk min | [tktk Link]() | Clearly define the concept of truthy and falsy. |
-| [Boolean Logic](./boolean-logic/README.md) | tktk min | [tktk Link]() | Use comparison operators to evaluate operands. |
-| [Branching](./branching/README.md) | tktk min | [tktk Link]() | Compose branching logic statements. |
-| [Looping](./looping/README.md) | tktk min | [tktk Link]() | Understand and work with looping statements. |
-|  **Total Module**                                        | tktk min | --            | ---     |
+| [Concepts](./concepts/README.md)                 | --- | --- | Clearly define the concept and significance of control flow in JavaScript. |
+| [Boolean Logic](./boolean-logic/README.md)       | --- | --- | Use comparison operators to evaluate operands.                             |
+| [Branching](./branching/README.md)               | --- | --- | Compose branching logic statements.                                        |
+| [Looping](./looping/README.md)                   | --- | --- | Understand and work with looping statements.                               |
+| [Truthy and Falsy](./truthy-and-falsy/README.md) | --- | --- | Clearly define the concept of truthy and falsy.                            |
+|  **Total Module**                                | --- | --- | ---                                                                        |
 
 ## Additional content 
 
@@ -24,6 +24,7 @@ This module introduces control flow in JavaScript.
 ### 🚀 Level Up
 
 - [Ternary Operator](./level-up/ternary-operator.md)
+- [Loose Equality](./level-up/loose-equality.md)
 - [Switch Statement](./level-up/switch.md)
 - ['do... while'](./level-up/do-while.md)
 - ['break' and 'continue' Statements](./level-up/break-continue.md)

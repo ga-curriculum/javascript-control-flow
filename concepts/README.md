@@ -6,20 +6,28 @@
 
 ## What is control flow? 
 
-Control flow is the execution sequence of instructions in a program determined at run time using control structures.
+Control flow is the order code is executed in a program. Control flow allows us to create responsive programs that can control what code is executed based on certain conditions. Control flow is determined using control structures to create branches and loops.
 
-In other words, the control flow is the order in which statements are executed. 
+### Basic types of control flow
+
+tktk Hunter, add assets - line, fork, circle - maybe cleaning up/making a better version of the chart at the top of this lecture in Notion?
+
+**Sequence:** Statements execute one at a time in succession. This is the default behavior.
+
+**Branching:** Different code paths are executed based on a conditional expression.
+
+**Looping:** The code in the loop repeatedly executes while a condition is truthy.
 
 ## Why is control flow important? 
 
-By default, code is executed from the top line in the file down to the last line. There are, however, many instances where we will need to change or manipulate this order to accomplish a specific task. We don't always want to run every single line of code, for example, or perhaps we want to run the same line of code multiple times until some condition is met. This is where control flow becomes a fundamentally important part of programming. 
+By default, code is executed from the top line in the file down to the last line. 
 
-## Basic types of control flow
+However, this doesn't make sense in most applications. In many instances, we will need to change or manipulate this order to accomplish specific tasks, such as:
 
-[tktk add assets - line, fork, circle]
+- Decision-making
+- Repetition 
+- User interaction
+- Error handling
+- And more
 
-**Sequence**: Statements execute one at a time in succession.
-
-**Branching**: Different code paths are executed based upon a conditional expression.
-
-**Looping**: The code in the loop repeatedly executes while a condition is truthy.
+Ultimately, we don't always want to run every single line of code. This is where control flow becomes a fundamentally important part of programming. 

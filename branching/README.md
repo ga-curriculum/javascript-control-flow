@@ -4,29 +4,31 @@
 
 **Learning objective:** By the end of this lesson, students will be able to compose branching logic statements.
 
+## Branching
+
 Branching is a type of control flow that allows for different code paths to be executed based on specific conditions.
 
-## `if`
-__Single Path__
+### `if`
 
-To execute a statement or statements conditionally, use the `if` statement. 
+***Single Path***
 
-```javascript
+To execute a statement or statements conditionally, use the `if` statement. Conditional expressions must be surrounded by parenthesis.
+
+```js
+const val = 1
+
 if (val === 1) {
 	console.log('This code will run only if val equals 1')
 }
 ```
 
-Conditional expressions must be surrounded by parenthesis. If you have only a single statement that needs to execute, you can write that statement without using curly braces (used to define a block statement):
+### `if...else`
 
-```javascript
-if (val === 1) console.log('This code will run only if val equals 1')
-```
+***Dual Paths***
 
-## `if`...`else`
-__Dual Paths__
+When using an `if...else` statement, the code inside the `if` block will be executed if the condition evaluates to `true`. If the condition evaluates to `false`, then the code inside the `else` block will be executed. 
 
-```javascript
+```js
 if (val === 1) {
   console.log('val is one')
 } else {
@@ -34,11 +36,13 @@ if (val === 1) {
 }
 ```
 
-## `if`...`else if`...`else`
-__Three or more paths__
+### `if...else if...else`
 
-If you have three or more code paths use `if` with as many `else if` statements as necessary and optionally a final `else`:
-```javascript
+***Three or more paths***
+
+If you have three or more code paths, use `if` with as many `else if` statements as necessary and optionally a final `else`:
+
+```js
 if (val === 1) {
   console.log('val is one')
 } else if (val === 2) {
@@ -52,11 +56,15 @@ if (val === 1) {
 
 ## You Do 🧠
 
-Write an `if` … `else if` … `else` statement that console.logs the following based upon the value of a variable named `color`: 
+tktk Hunter, You Do banner asset here.
 
-- If the value is `green`, log `Go`
-- If the value is `yellow`, log `Slow`
-- If the value is `red`, log `Stop`
-- If the value is anything else, log `Whatever`
+First, declare and initialize a variable named `color`.
 
-Hint: Don’t forget to declare and initialize a variable named `color`.
+Then, write a branching statement that console.logs the following based upon the value of `color`: 
+
+- If the value is `green`, log `'Go'`
+- If the value is `yellow`, log `'Slow'`
+- If the value is `red`, log `'Stop'`
+- If the value is anything else, log `'Whatever'`
+
+Manipulate the value of `color` to ensure you're able to log all of the above values.
