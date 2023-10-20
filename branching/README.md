@@ -1,6 +1,4 @@
-# Control Flow in JavaScript - Branching
-
-![Hero image](./assets/hero.png)
+# ![Control Flow in JavaScript - Branching](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to compose branching logic statements.
 
@@ -55,8 +53,6 @@ if (val === 1) {
 ```
 
 ## You Do 🧠
-
-tktk Hunter, You Do banner asset here.
 
 First, declare and initialize a variable named `color`.
 

@@ -1,6 +1,4 @@
-# Control Flow in JavaScript - References
-
-![Hero image](./assets/hero.png)
+# ![Control Flow in JavaScript - References](./assets/hero.png)
 
 ## Lesson references
 

@@ -1,6 +1,4 @@
-# Control Flow in JavaScript - Level Up - Ternary Operator
-
-![Hero image](./assets/hero.png)
+# ![Control Flow in JavaScript - Level Up - Ternary Operator](./assets/hero-ternary-operator.png)
 
 The ternary operator is ideal when you need to return one of two values depending upon a condition:
 
