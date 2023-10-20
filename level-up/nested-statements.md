@@ -1,6 +1,6 @@
 # Control Flow in JavaScript - Level Up - Nested branches
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-nested-branches.png)
 
 ### Nested branching statements
 

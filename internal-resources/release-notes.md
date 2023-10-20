@@ -1,6 +1,6 @@
 # Control Flow in JavaScript - Release Notes
 
-![Hero image](../assets/tktkhero-secondary.png)
+![Hero image](./assets/hero-release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 
@@ -9,7 +9,6 @@ This release modularizes the legacy Control Flow lecture and provides some other
 ### Release details
 
 **Additions**
-
 
 
 **Changes**

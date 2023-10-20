@@ -1,6 +1,6 @@
 # Control Flow in JavaScript - Level Up - Single Line `if`
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-single-line-if.png)
 
 If you have only a single statement that needs to execute, you can write that statement without using curly braces:
 

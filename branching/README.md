@@ -56,8 +56,6 @@ if (val === 1) {
 
 ## You Do 🧠
 
-tktk Hunter, You Do banner asset here.
-
 First, declare and initialize a variable named `color`.
 
 Then, write a branching statement that console.logs the following based upon the value of `color`: 

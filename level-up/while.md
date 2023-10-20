@@ -1,6 +1,6 @@
 # Control Flow in JavaScript - Level Up - 'while'
 
-![Hero image](./assets/hero.png)
+![Hero image](./assets/hero-while.png)
 
 ## while
 
