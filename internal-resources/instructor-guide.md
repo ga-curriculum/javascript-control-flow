@@ -1,6 +1,4 @@
-# Control Flow in JavaScript - Instructor Guide
-
-![Hero image](./assets/hero-instructor-guide.png)
+# ![Control Flow in JavaScript - Instructor Guide](./assets/hero-instructor-guide.png)
 
 ---
 

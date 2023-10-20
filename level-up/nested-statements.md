@@ -1,6 +1,4 @@
-# Control Flow in JavaScript - Level Up - Nested branches
-
-![Hero image](./assets/hero-nested-branches.png)
+# ![Control Flow in JavaScript - Level Up - Nested branches](./assets/hero-nested-branches.png)
 
 ### Nested branching statements
 

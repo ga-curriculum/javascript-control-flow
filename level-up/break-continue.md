@@ -1,6 +1,4 @@
-# Control Flow in JavaScript - Level Up - 'break' and 'continue' Statements
-
-![Hero image](./assets/hero-break-and-continue.png)
+# ![Control Flow in JavaScript - Level Up - 'break' and 'continue' Statements](./assets/hero-break-and-continue.png)
 
 The [break](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/break) statement is used to immediately exit a `while` or `for` loop. For example: 
 
