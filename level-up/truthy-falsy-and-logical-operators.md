@@ -11,7 +11,7 @@ The logical `||` (OR) operator always returns the first operand if it is truthy;
 0 || null            // evaluates to null
 ```
 
-The logical `&&` (AND) operator always returns the first operand if it is falsy, otherwise the second operand will be returned:
+The logical `&&` (AND) operator always returns the first operand if it is falsy; otherwise, the second operand will be returned:
 
 ```javascript
 'hello' && 'goodbye' // evaluates to 'goodbye'

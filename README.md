@@ -23,11 +23,14 @@ This module introduces control flow in JavaScript.
 
 ### 🚀 Level Up
 
+- [`while`](./level-up/while.md)
+- [Single Line `if`](./level-up/single-line-if.md)
 - [Ternary Operator](./level-up/ternary-operator.md)
 - [Loose Equality](./level-up/loose-equality.md)
-- [Switch Statement](./level-up/switch.md)
-- ['do... while'](./level-up/do-while.md)
-- ['break' and 'continue' Statements](./level-up/break-continue.md)
+- [`switch` Statement](./level-up/switch.md)
+- [`do...while`](./level-up/do-while.md)
+- [Truthy, Falsy, and Logical Operators](./level-up/truthy-falsy-and-logical-operators.md)
+- [Nested Statements](./level-up/nested-statements.md)
 
 ## Internal resources
 

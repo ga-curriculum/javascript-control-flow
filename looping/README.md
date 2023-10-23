@@ -25,7 +25,7 @@ Next, let's examine the order of operation for a `for` loop, with an example:
 
 ```javascript
 for (let number = 1; number < 10; number++) {
-	console.log(number)
+  console.log(number);
 }
 ```
 
@@ -64,3 +64,7 @@ Sample Output:
 ```
 
 Check out this documentation on the [remainder operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder) if you need a hint.
+
+## `while` and `do...while`
+
+Reference the [`while` Level Up](../level-up/while.md) and the [`do...while` Level Up](../level-up/do-while.md) to see some more uncommon ways to loop in JavaScript.

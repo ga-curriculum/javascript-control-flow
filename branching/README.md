@@ -15,10 +15,10 @@ Branching is a type of control flow that allows for different code paths to be e
 To execute a statement or statements conditionally, use the `if` statement. Conditional expressions must be surrounded by parenthesis.
 
 ```js
-const val = 1
+const val = 1;
 
 if (val === 1) {
-	console.log('This code will run only if val equals 1')
+  console.log('This code will run only if val equals 1');
 }
 ```
 
@@ -30,11 +30,13 @@ When using an `if...else` statement, the code inside the `if` block will be exec
 
 ```js
 if (val === 1) {
-  console.log('val is one')
+  console.log('val is one');
 } else {
-  console.log('val is not one')
+  console.log('val is not one');
 }
 ```
+
+Check out the [Ternary Operator Level Up](../level-up/ternary-operator.md) for another way to write short dual path branches.
 
 ### `if...else if...else`
 
@@ -44,13 +46,13 @@ If you have three or more code paths, use `if` with as many `else if` statements
 
 ```js
 if (val === 1) {
-  console.log('val is one')
+  console.log('val is one');
 } else if (val === 2) {
-  console.log('val is two')
+  console.log('val is two');
 } else if (val === 3) {
-  console.log('val is three')
+  console.log('val is three');
 } else {
-  console.log('not one, two, or three')
+  console.log('not one, two, or three');
 }
 ```
 
@@ -68,3 +70,7 @@ Then, write a branching statement that console.logs the following based upon the
 - If the value is anything else, log `'Whatever'`
 
 Manipulate the value of `color` to ensure you're able to log all of the above values.
+
+## `switch`
+
+The `switch` statement can also be used for branching, but is less common than the branching techniques above. Check out the [`switch` Level Up](../level-up/switch.md) for more.

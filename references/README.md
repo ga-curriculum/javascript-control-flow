@@ -4,10 +4,5 @@
 
 ## Lesson references
 
-Links from lessons:
-
-- [tktk descriptive name of link]()
-
-- [tktk descriptive name of link]()
-
-- [tktk descriptive name of link]()
+- [MDN - Increment (`++`) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
+- [MDN - Remainder (`%`) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder)
