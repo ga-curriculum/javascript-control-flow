@@ -8,12 +8,13 @@ This module introduces control flow in JavaScript.
 
 | Lesson | Video Time | Video | Learning Objective |
 | ------ |:----------:|:-----:| ------------------ |
-| [Concepts](./concepts/README.md)                 | --- | --- | Clearly define the concept and significance of control flow in JavaScript. |
-| [Boolean Logic](./boolean-logic/README.md)       | --- | --- | Use comparison operators to evaluate operands.                             |
-| [Branching](./branching/README.md)               | --- | --- | Compose branching logic statements.                                        |
-| [Looping](./looping/README.md)                   | --- | --- | Understand and work with looping statements.                               |
-| [Truthy and Falsy](./truthy-and-falsy/README.md) | --- | --- | Clearly define the concept of truthy and falsy.                            |
-|  **Total Module**                                | --- | --- | ---                                                                        |
+| [Setup](./setup/README.md)                       | -- | -- | -- |
+| [Concepts](./concepts/README.md)                 | -- | -- | Clearly define the concept and significance of control flow in JavaScript. |
+| [Boolean Logic](./boolean-logic/README.md)       | -- | -- | Use comparison operators to evaluate operands.                             |
+| [Branching](./branching/README.md)               | -- | -- | Compose branching logic statements.                                        |
+| [Looping](./looping/README.md)                   | -- | -- | Understand and work with looping statements.                               |
+| [Truthy and Falsy](./truthy-and-falsy/README.md) | -- | -- | Clearly define the concept of truthy and falsy.                            |
+|  **Total Module**                                | -- | -- | --                                                                        |
 
 ## Additional content 
 
