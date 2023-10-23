@@ -1,6 +1,4 @@
-# Control Flow in JavaScript
-
-![Hero image](./assets/tktkhero-main.png)
+# ![Hero image](./assets/hero.png)
 
 ## Module overview
 
