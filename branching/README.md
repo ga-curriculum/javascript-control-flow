@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Branching](./assets/hero.png)
+# ![JavaScript Control Flow - Branching](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to compose branching logic statements.
 

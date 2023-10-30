@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Level Up - Single Line `if`](./assets/hero-single-line-if.png)
+# ![JavaScript Control Flow - Level Up - Single Line `if`](./assets/hero-single-line-if.png)
 
 If you have only a single statement that needs to be executed, you can write that statement without using curly braces:
 

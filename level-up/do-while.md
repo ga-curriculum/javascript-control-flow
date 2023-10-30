@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Level Up - 'do...while'](./assets/hero-do-while.png)
+# ![JavaScript Control Flow - Level Up - 'do...while'](./assets/hero-do-while.png)
 
 `do`...`while` loops are very similar to `while` loops, except they force the code block to execute at least once, regardless of the condition being truthy or falsy. 
 

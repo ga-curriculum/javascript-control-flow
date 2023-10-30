@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Level Up - Ternary Operator](./assets/hero-ternary-operator.png)
+# ![JavaScript Control Flow - Level Up - Ternary Operator](./assets/hero-ternary-operator.png)
 
 The [ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) is useful when you need to carry out one of two actions depending on a condition. Take this `if...else` branch as an example:
 

@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Level Up - Loose Equality](./assets/hero-loose-equality.png)
+# ![JavaScript Control Flow - Level Up - Loose Equality](./assets/hero-loose-equality.png)
 
 The loose equality operator (commonly called 'double equals') will perform a type conversion (if needed) when it compares its left and right operands: 
 

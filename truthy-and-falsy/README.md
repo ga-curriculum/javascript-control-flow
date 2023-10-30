@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Truthy and Falsy](./assets/hero.png)
+# ![JavaScript Control Flow - Truthy and Falsy](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will understand the concept of truthy/falsy values. 
 

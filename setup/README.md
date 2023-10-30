@@ -1,4 +1,4 @@
-# ![Intro to JavaScript Objects - Setup](./assets/hero.png)
+# ![JavaScript Control Flow - Setup](./assets/hero.png)
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 

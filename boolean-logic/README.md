@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Boolean Logic](./assets/hero.png)
+# ![JavaScript Control Flow - Boolean Logic](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to use comparison operators to evaluate operands. 
 

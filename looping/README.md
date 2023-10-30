@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Looping](./assets/hero.png)
+# ![JavaScript Control Flow - Looping](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to compose `for` and `while` loops.
 

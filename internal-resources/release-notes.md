@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Release Notes](./assets/hero-release-notes.png)
+# ![JavaScript Control Flow - Release Notes](./assets/hero-release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 

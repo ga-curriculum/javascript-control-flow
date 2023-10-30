@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Concepts](./assets/hero.png)
+# ![JavaScript Control Flow - Concepts](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will understand the three types of control flow and their importance in programming. 
 

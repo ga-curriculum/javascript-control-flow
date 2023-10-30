@@ -1,4 +1,4 @@
-# ![Hero image](./assets/hero.png)
+# ![JavaScript Control Flow](./assets/hero.png)
 
 ## Module overview
 

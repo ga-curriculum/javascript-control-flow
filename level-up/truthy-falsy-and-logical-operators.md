@@ -1,4 +1,4 @@
-# ![Control Flow in JavaScript - Level Up - Truthy, Falsy, and Logical Operators](./assets/hero-truthy-falsy-logical-operators.png)
+# ![JavaScript Control Flow - Level Up - Truthy, Falsy, and Logical Operators](./assets/hero-truthy-falsy-logical-operators.png)
 
 The logical operators `||` and `&&` are more powerful than meets the eye.
 
