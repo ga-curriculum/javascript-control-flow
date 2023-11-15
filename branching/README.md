@@ -54,7 +54,7 @@ if (val === 1) {
 }
 ```
 
-## You Do 🧠
+## 🎓 You Do
 
 First, declare and initialize a variable named `color`.
 

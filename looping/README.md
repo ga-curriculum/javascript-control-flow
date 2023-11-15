@@ -47,7 +47,7 @@ The update expression `afterthought` is executed. In this example, `number` is
 
 Control returns to Step 2.
 
-## You Do 🧠 
+## 🎓 You Do
 
 Write a `for` loop that iterates from 1 - 20 and logs out whether each number in the range is even or odd.
 
