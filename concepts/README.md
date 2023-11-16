@@ -4,8 +4,6 @@
 
 ## What is control flow? 
 
-![Baking a cake](./assets/baking-a-cake.png)
-
 Control flow is the order code is executed in a program. Control flow allows us to create responsive programs that can control what code is executed based on certain conditions. Control flow is determined using control structures to create branches and loops.
 
 ### Basic types of control flow
