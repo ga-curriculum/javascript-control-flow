@@ -8,13 +8,15 @@ Control flow is the order code is executed in a program. Control flow allows us 
 
 ### Basic types of control flow
 
-tktk Hunter, add assets - line, fork, circle - maybe cleaning up/making a better version of the chart at the top of this lecture in Notion?
-
 **Sequence:** Statements execute one at a time in succession. This is the default behavior.
+![Sequence](./assets/sequence.png)
 
 **Branching:** Different code paths are executed based on a conditional expression.
 
+![Branching](./assets/branching.png)
+
 **Looping:** The code in the loop repeatedly executes while a condition is truthy.
+![Looping](./assets/looping.png)
 
 ## Why is control flow important? 
 
