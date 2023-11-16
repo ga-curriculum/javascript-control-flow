@@ -11,7 +11,7 @@ Control flow is the order code is executed in a program. Control flow allows us 
 ### Basic types of control flow
 
 **Sequence:** Statements execute one at a time in succession. This is the default behavior.
-![Sequence](./assets/sequences.png)
+![Sequence](./assets/sequence.png)
 
 **Branching:** Different code paths are executed based on a conditional expression.
 
