@@ -1,16 +1,23 @@
 # ![JavaScript Control Flow - Boolean Logic](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to use comparison operators to evaluate operands. 
+**Learning objective:** By the end of this lesson, students will be able to use comparison operators to compare values in code. 
+
+In coding, just as in everyday decision-making, we often need to compare values to decide what action to take. This process in programming is similar to comparing numbers or quantities in everyday life. For instance, you might compare prices while shopping to decide which item is more affordable.
+
+To perform these comparisons in code, we use special symbols known as *operators*. 
+
+> 📚 An operator in programming is a symbol that tells the computer to perform a specific mathematical, relational, or logical operation. The items we compare using these operators are called operands. Operands can be direct values (like numbers) or variables that represent values.
+
+For example, consider the statement `10 is greater than 5`. In mathematics, this is expressed as `10 > 5`.Here, `10` and `5` are the operands, and the symbol `>` is the operator that performs the comparison between them.
 
 ## Equality operators
 
-Equality operators are used to compare the values of left and right operands, which can be variables, literal values, and more.
+**Equality operators** are the tools we use to compare whether two values are equal. These values can be variables, literal values (like numbers or strings), and more. In JavaScript, there are two primary equality comparison operators:
 
-There are two primary equality comparison operators in JavaScript: 
-- `===` - strict equality (best practice)
-- `==` - loose equality (performs type conversion)
+- `===` - Strict Equality (Best Practice)
+- `==` - Loose Equality (Performs Type Conversion)
 
-The strict equality operator (commonly called 'triple equals') compares the values of the left and right operands and returns `true` if they have the same value. 
+The strict equality operator, often referred to as 'triple equals,' compares the values of both the left and right operands and returns `true` if they are not only equal in value, but also of the same data type.
 
 If the values have different types, then the operator returns `false`. 
 
@@ -19,6 +26,14 @@ If the values have different types, then the operator returns `false`.
 3 === 4   // false
 3 === '3' // false 
 ```
+
+In loose equality: `3 == '3'` is true because, with loose equality, `3` (a number) is considered equal to `'3'` (a string)."
+
+```js
+3 == '3' // true, but dangerous
+```
+
+Strict equality `===` avoids confusion and errors in code by ensuring that not only the values are equal but also their types. For example, treating the number `0` and the string `'0'` as the same could lead to unexpected results.
 
 We'll always use strict equality as a best practice. You can read more about loose equality in the [Loose Equality Level Up](../level-up/loose-equality.md).
 
@@ -36,6 +51,8 @@ JavaScript also has a host of relational operators:
 3 > 4       // false
 10 >= 5 + 5 // true
 ```
+
+In a gaming app, you might use relational operators to check if a player's score is greater than a certain threshold to level up: `playerScore > 1000`.
 
 ## Logical operators
 
@@ -74,6 +91,12 @@ false && false // false
 'hotdog' === 'sandwich' && 4 === 5   // false
 ```
 
+Imagine setting an alarm. You only want the alarm to ring if it's a weekday AND the time is 7:00 AM. This could be represented as:
+
+```js
+isWeekday && isSevenAm
+```
+
 Again, more than two conditions may be evaluated at a time. For example:
 
 ```js
@@ -93,6 +116,7 @@ The not (`!`) operator, also known as the bang operator, flips a `true` expressi
 ```
 
 When used in conjunction with the equality operators, the syntax looks like this: 
+
 - `!==` - Strict Inequality
 
 ```javascript

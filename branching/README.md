@@ -1,6 +1,6 @@
 # ![JavaScript Control Flow - Branching](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to compose branching logic statements.
+**Learning objective:** By the end of this lesson, students will be proficient in using JavaScript's `if...else` statements for conditional logic in programming.
 
 ## Branching
 
@@ -12,12 +12,16 @@ Branching is a type of control flow that allows for different code paths to be e
 
 To execute a statement or statements conditionally, use the `if` statement. Conditional expressions must be surrounded by parenthesis.
 
+The `if` statement checks a condition – it's like asking a yes-or-no question. If the answer is 'yes' (which in coding terms means the condition is `true`), then the code inside the `if` block will run. If the answer is 'no' (`false`), the code inside the block will be skipped.
+
 ```js
 const val = 1;
 
+// Ask: Is val exactly equal to 1?
 if (val === 1) {
-  console.log('This code will run only if val equals 1');
+  console.log('This code runs because val is 1');
 }
+// Since val is 1, the answer is 'yes', so the code inside the if block runs.
 ```
 
 ### `if...else`
@@ -26,23 +30,33 @@ if (val === 1) {
 
 When using an `if...else` statement, the code inside the `if` block will be executed if the condition evaluates to `true`. If the condition evaluates to `false`, then the code inside the `else` block will be executed. 
 
+Think of `if...else` like a fork in the road. If the condition in the if part is true, take the first path. Otherwise, take the else path.
+
 ```js
+const val = 2;
+
+// If path
 if (val === 1) {
   console.log('val is one');
+// Else path
 } else {
   console.log('val is not one');
+  // Since val is not 1, the else path is taken, printing 'val is not one'.
 }
 ```
-
 Check out the [Ternary Operator Level Up](../level-up/ternary-operator.md) for another way to write short dual path branches.
 
 ### `if...else if...else`
 
 ***Three or more paths***
 
-If you have three or more code paths, use `if` with as many `else if` statements as necessary and optionally a final `else`:
+If you have three or more code paths, use `if` with as many `else if` statements as necessary and optionally a final `else`.
+
+When you have several conditions to check, think of `if...else if...else` like multiple doors to choose from. Only one door can be entered, based on which condition is true.
 
 ```js
+const val = 3;
+
 if (val === 1) {
   console.log('val is one');
 } else if (val === 2) {
@@ -52,6 +66,8 @@ if (val === 1) {
 } else {
   console.log('not one, two, or three');
 }
+
+// val is 3, so 'val is three' will be printed.
 ```
 
 ## 🎓 You Do
