@@ -56,7 +56,9 @@ In a gaming app, you might use relational operators to check if a player's score
 
 ## Logical operators
 
-The logical operators `||` and `&&` help evaluate multiple conditions simultaneously.
+In JavaScript, you often encounter situations where you need to make decisions based on the truthiness or falsiness of values. This is where logical operators `||` (OR) and `&&` (AND) come into play. They not only allow you to check conditions but also provide some powerful behaviors that can make your code more concise and expressive.
+
+> The logical operators `||` and `&&` help evaluate multiple conditions simultaneously.
 
 The logical OR (`||`) operator evaluates multiple conditions. If any of the conditions evaluate to `true`, then the operator resolves to `true`. Here are some examples:
 

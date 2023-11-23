@@ -1,5 +1,7 @@
 # ![JavaScript Control Flow - Level Up - Switch Statements](./assets/hero-switch-statements.png)
 
+**Learning objective:** Students will learn how to effectively use the switch statement in JavaScript to handle multiple conditional cases, improving code readability and maintainability.
+
 Look into using the `switch` statement instead of `if`...`else` if you have more than three code paths, and your conditionals always check the same variable.
 
 Here’s the documentation for the [switch statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch).

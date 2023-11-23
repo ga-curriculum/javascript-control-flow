@@ -1,5 +1,7 @@
 # ![JavaScript Control Flow - Level Up - 'while'](./assets/hero-while.png)
 
+**Learning objective:** By the end of this lesson, students will be able to implement and differentiate between `for` and `while` loops, understanding the appropriate use of each, particularly when the number of iterations is unknown.
+
 ## while
 
 The `while` loop is the go-to when the number of iterations is unknown.

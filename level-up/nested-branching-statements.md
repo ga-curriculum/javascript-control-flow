@@ -1,5 +1,7 @@
 # ![JavaScript Control Flow - Level Up - Nested Branching Statements](./assets/hero-nested-branching-statements.png)
 
+**Learning objective:** By the end of this lesson, students will understand how to effectively use nested branching statements in JavaScript to handle complex conditional scenarios.
+
 Sometimes, you'll encounter situations where one condition depends on another. In such cases, you can use nested `if` statements. These are `if` statements placed inside other `if` or `else` blocks, allowing for more complex decision-making. Here's an example:
 
 

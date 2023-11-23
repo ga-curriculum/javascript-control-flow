@@ -1,5 +1,7 @@
 # ![JavaScript Control Flow - Level Up - Loose Equality](./assets/hero-loose-equality.png)
 
+**Learning objective:** Students will understand the concept of the loose equality operator (double equals) in JavaScript, its behavior regarding type conversion, and why it's generally recommended to use strict equality (triple equals) instead.
+
 The loose equality operator (commonly called 'double equals') will perform a type conversion (if needed) when it compares its left and right operands: 
 
 ```js

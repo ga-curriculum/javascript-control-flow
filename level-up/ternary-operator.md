@@ -1,5 +1,8 @@
 # ![JavaScript Control Flow - Level Up - Ternary Operator](./assets/hero-ternary-operator.png)
 
+
+**Learning objective:** Students will learn how to use the ternary operator in JavaScript to perform conditional actions and return values based on conditions.
+
 The [ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator) is useful when you need to carry out one of two actions depending on a condition. Take this `if...else` branch as an example:
 
 ```js

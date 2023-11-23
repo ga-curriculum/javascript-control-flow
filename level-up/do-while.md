@@ -1,5 +1,7 @@
 # ![JavaScript Control Flow - Level Up - 'do...while'](./assets/hero-do-while.png)
 
+**Learning objective:** Students will understand the concept of `do...while` loops in JavaScript, how they differ from `while` loops, and when to use them for iterative tasks.
+
 `do`...`while` loops are very similar to `while` loops, except they force the code block to execute at least once, regardless of the condition being truthy or falsy. 
 
 ```javascript
