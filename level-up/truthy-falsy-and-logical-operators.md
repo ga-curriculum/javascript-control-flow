@@ -13,7 +13,7 @@ The logical `||` (OR) operator evaluates expressions and returns the first truth
 
 In the first example, `'hello'` is truthy, so the result is `'hello'`. In the second example, both `0` and `null` are falsy, so it returns the last falsy operand, which is `null`.
 
-The power of || lies in its ability to provide default values. For instance:
+The power of `||` lies in its ability to provide default values. For instance:
 
 ```JS
 const username = getUsername() || 'Guest';
