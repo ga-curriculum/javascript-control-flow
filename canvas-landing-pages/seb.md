@@ -20,16 +20,16 @@ This module provides a comprehensive introduction to JavaScript control flow for
 
 ## Level up content
 
-| Lesson                                                                                    | Skills                                                                      |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Single Line `if`](../level-up/single-line-if.md)                                         | Effectively use single-line `if` statements                                 |
-| [Nested Statements](../level-up/nested-branching-statements.md)                           | Nested `if` statements in JavaScript                                        |
-| [Ternary Operator](../level-up/ternary-operator.md)                                       | Syntax and structure of the `ternary` operator                              |
-| [`switch` Statement](../level-up/switch-statements.md)                                    | Syntax and structure of the `switch` statement                              |
-| [`while`](../level-up/while.md)                                                           | Composing `while` loops                                                     |
-| [`do...while`](../level-up/do-while.md)                                                   | Syntax and structure of the `do...while` loop                               |
-| [Loose Equality](../level-up/loose-equality.md)                                           | Illustrating type coercion with `==`                                        |
-| [Truthy, Falsy, and Logical Operators](../level-up/truthy-falsy-and-logical-operators.md) | Using logical operators for conditional logic and default value assignments |
+| Lesson                                                                                  | Skills                                                                      |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Single Line `if`](../single-line-if/README.md)                                         | Effectively use single-line `if` statements                                 |
+| [Nested Statements](../nested-branching-statements/README.md)                           | Nested `if` statements in JavaScript                                        |
+| [Ternary Operator](../ternary-operator/README.md)                                       | Syntax and structure of the `ternary` operator                              |
+| [`switch` Statement](../switch-statements/README.md)                                    | Syntax and structure of the `switch` statement                              |
+| [`while`](../while/README.md)                                                           | Composing `while` loops                                                     |
+| [`do...while`](../do-while/README.md)                                                   | Syntax and structure of the `do...while` loop                               |
+| [Loose Equality](../loose-equality/README.md)                                           | Illustrating type coercion with `==`                                        |
+| [Truthy, Falsy, and Logical Operators](../truthy-falsy-and-logical-operators/README.md) | Using logical operators for conditional logic and default value assignments |
 
 ## References
 
