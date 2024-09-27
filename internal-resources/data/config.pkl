@@ -37,5 +37,41 @@ courses {
       mls.truthyFalsyAndLogicalOperators
     }
   }
+  new {
+    name = "seb"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.concepts
+      mls.booleanLogic
+      mls.branching
+      mls.looping
+      mls.truthyAndFalsy
+      (mls.singleLineIf) {
+        type = "Level Up content"
+      }
+      (mls.nestedBranchingStatements) {
+        type = "Level Up content"
+      }
+      (mls.ternaryOperator) {
+        type = "Level Up content"
+      }
+      (mls.switchStatements) {
+        type = "Level Up content"
+      }
+      (mls.while) {
+        type = "Level Up content"
+      }
+      (mls.doWhile) {
+        type = "Level Up content"
+      }
+      (mls.looseEquality) {
+        type = "Level Up content"
+      }
+      (mls.truthyFalsyAndLogicalOperators) {
+        type = "Level Up content"
+      }
+    }
+  }
 }
 
