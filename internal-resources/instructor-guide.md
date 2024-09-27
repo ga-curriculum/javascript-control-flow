@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Instructor Guide](./assets/hero-instructor-guide.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
 ---
 

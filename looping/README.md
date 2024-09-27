@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Looping](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Looping</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to compose a `for` loop to repeat specific blocks of code.
 

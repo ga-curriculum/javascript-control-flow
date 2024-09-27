@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Branching](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Branching</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be proficient in using JavaScript's `if...else` statements for conditional logic in programming.
 

@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Concepts](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Concepts</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will understand the three types of control flow and their importance in programming.
 

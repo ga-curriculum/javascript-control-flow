@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Boolean Logic](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Boolean Logic</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use comparison operators to compare values in code. 
 

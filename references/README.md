@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - References](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
