@@ -10,19 +10,14 @@ This module provides a comprehensive introduction to JavaScript control flow for
 
 ## Content
 
-| Lesson                                            | Skills                                                     |
-| ------------------------------------------------- | ---------------------------------------------------------- |
-| [Setup](../setup/README.md)                       | Setting up the development environment                     |
-| [Concepts](../concepts/README.md)                 | Control flow in programming: sequence, branching & looping |
-| [Boolean Logic](../boolean-logic/README.md)       | Use comparison operators to evaluate operands              |
-| [Branching](../branching/README.md)               | Branching logic with `if...else` statements                |
-| [Looping](../looping/README.md)                   | Looping with classic `for` loop statements                 |
-| [Truthy and Falsy](../truthy-and-falsy/README.md) | Truthy and falsy values in JavaScript                      |
-
-## Level up content
-
 | Lesson                                                                                  | Skills                                                                      |
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Setup](../setup/README.md)                                                             | Setting up the development environment                                      |
+| [Concepts](../concepts/README.md)                                                       | Control flow in programming: sequence, branching & looping                  |
+| [Boolean Logic](../boolean-logic/README.md)                                             | Use comparison operators to evaluate operands                               |
+| [Branching](../branching/README.md)                                                     | Branching logic with `if...else` statements                                 |
+| [Looping](../looping/README.md)                                                         | Looping with classic `for` loop statements                                  |
+| [Truthy and Falsy](../truthy-and-falsy/README.md)                                       | Truthy and falsy values in JavaScript                                       |
 | [Single Line `if`](../single-line-if/README.md)                                         | Effectively use single-line `if` statements                                 |
 | [Nested Statements](../nested-branching-statements/README.md)                           | Nested `if` statements in JavaScript                                        |
 | [Ternary Operator](../ternary-operator/README.md)                                       | Syntax and structure of the `ternary` operator                              |
