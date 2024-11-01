@@ -50,7 +50,7 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Single Line <code>if</code>",
+          "friendlyName": "Single Line  if ",
           "dirName": "single-line-if",
           "type": "Content",
           "videoUrl": ""
@@ -68,19 +68,19 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>switch</code> Statements",
+          "friendlyName": " switch  Statements",
           "dirName": "switch-statements",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>while</code>",
+          "friendlyName": " while ",
           "dirName": "while",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>do...while</code>",
+          "friendlyName": " do...while ",
           "dirName": "do-while",
           "type": "Content",
           "videoUrl": ""
@@ -161,7 +161,7 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Single Line <code>if</code>",
+          "friendlyName": "Single Line  if ",
           "dirName": "single-line-if",
           "type": "Level Up content",
           "videoUrl": ""
@@ -179,19 +179,19 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>switch</code> Statements",
+          "friendlyName": " switch  Statements",
           "dirName": "switch-statements",
           "type": "Level Up content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>while</code>",
+          "friendlyName": " while ",
           "dirName": "while",
           "type": "Level Up content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "<code>do...while</code>",
+          "friendlyName": " do...while ",
           "dirName": "do-while",
           "type": "Level Up content",
           "videoUrl": ""

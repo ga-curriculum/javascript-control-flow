@@ -45,7 +45,7 @@ truthyAndFalsy = new Template.Microlesson {
 }
 
 singleLineIf = new Template.Microlesson {
-  friendlyName = "Single Line <code>if</code>"
+  friendlyName = "Single Line  if "
   dirName = "single-line-if"
   type = "Content"
   videoUrl = ""
@@ -66,21 +66,21 @@ ternaryOperator = new Template.Microlesson {
 }
 
 switchStatements = new Template.Microlesson {
-  friendlyName = "<code>switch</code> Statements"
+  friendlyName = " switch  Statements"
   dirName = "switch-statements"
   type = "Content"
   videoUrl = ""
 }
 
 while = new Template.Microlesson {
-  friendlyName = "<code>while</code>"
+  friendlyName = " while "
   dirName = "while"
   type = "Content"
   videoUrl = ""
 }
 
 doWhile = new Template.Microlesson {
-  friendlyName = "<code>do...while</code>"
+  friendlyName = " do...while "
   dirName = "do-while"
   type = "Content"
   videoUrl = ""
