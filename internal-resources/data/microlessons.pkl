@@ -1,0 +1,102 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+booleanLogic = new Template.Microlesson {
+  friendlyName = "Boolean Logic"
+  dirName = "boolean-logic"
+  type = "Content"
+  videoUrl = ""
+}
+
+branching = new Template.Microlesson {
+  friendlyName = "Branching"
+  dirName = "branching"
+  type = "Content"
+  videoUrl = ""
+}
+
+looping = new Template.Microlesson {
+  friendlyName = "Looping"
+  dirName = "looping"
+  type = "Content"
+  videoUrl = ""
+}
+
+truthyAndFalsy = new Template.Microlesson {
+  friendlyName = "Truthy and Falsy"
+  dirName = "truthy-and-falsy"
+  type = "Content"
+  videoUrl = ""
+}
+
+singleLineIf = new Template.Microlesson {
+  friendlyName = "Single Line  if "
+  dirName = "single-line-if"
+  type = "Content"
+  videoUrl = ""
+}
+
+nestedBranchingStatements = new Template.Microlesson {
+  friendlyName = "Nested Branching Statements"
+  dirName = "nested-branching-statements"
+  type = "Content"
+  videoUrl = ""
+}
+
+ternaryOperator = new Template.Microlesson {
+  friendlyName = "Ternary Operator"
+  dirName = "ternary-operator"
+  type = "Content"
+  videoUrl = ""
+}
+
+switchStatements = new Template.Microlesson {
+  friendlyName = " switch  Statements"
+  dirName = "switch-statements"
+  type = "Content"
+  videoUrl = ""
+}
+
+while = new Template.Microlesson {
+  friendlyName = " while "
+  dirName = "while"
+  type = "Content"
+  videoUrl = ""
+}
+
+doWhile = new Template.Microlesson {
+  friendlyName = " do...while "
+  dirName = "do-while"
+  type = "Content"
+  videoUrl = ""
+}
+
+looseEquality = new Template.Microlesson {
+  friendlyName = "Loose Equality"
+  dirName = "loose-equality"
+  type = "Content"
+  videoUrl = ""
+}
+
+truthyFalsyAndLogicalOperators = new Template.Microlesson {
+  friendlyName = "Truthy, Falsy, and Logical Operators"
+  dirName = "truthy-falsy-and-logical-operators"
+  type = "Content"
+  videoUrl = ""
+}
+

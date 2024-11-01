@@ -1,0 +1,235 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "JavaScript Control Flow",
+    "name": "javascript-control-flow",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Boolean Logic",
+          "dirName": "boolean-logic",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Branching",
+          "dirName": "branching",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Looping",
+          "dirName": "looping",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Truthy and Falsy",
+          "dirName": "truthy-and-falsy",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Single Line  if ",
+          "dirName": "single-line-if",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Nested Branching Statements",
+          "dirName": "nested-branching-statements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Ternary Operator",
+          "dirName": "ternary-operator",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " switch  Statements",
+          "dirName": "switch-statements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " while ",
+          "dirName": "while",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " do...while ",
+          "dirName": "do-while",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Loose Equality",
+          "dirName": "loose-equality",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Truthy, Falsy, and Logical Operators",
+          "dirName": "truthy-falsy-and-logical-operators",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Boolean Logic",
+          "dirName": "boolean-logic",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Branching",
+          "dirName": "branching",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Looping",
+          "dirName": "looping",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Truthy and Falsy",
+          "dirName": "truthy-and-falsy",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Single Line  if ",
+          "dirName": "single-line-if",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Nested Branching Statements",
+          "dirName": "nested-branching-statements",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Ternary Operator",
+          "dirName": "ternary-operator",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " switch  Statements",
+          "dirName": "switch-statements",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " while ",
+          "dirName": "while",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " do...while ",
+          "dirName": "do-while",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Loose Equality",
+          "dirName": "loose-equality",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Truthy, Falsy, and Logical Operators",
+          "dirName": "truthy-falsy-and-logical-operators",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

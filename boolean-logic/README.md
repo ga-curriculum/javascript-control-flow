@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Boolean Logic](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Boolean Logic</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to use comparison operators to compare values in code. 
 
@@ -35,7 +38,7 @@ In loose equality: `3 == '3'` is true because, with loose equality, `3` (a numbe
 
 Strict equality `===` avoids confusion and errors in code by ensuring that not only the values are equal but also their types. For example, treating the number `0` and the string `'0'` as the same could lead to unexpected results.
 
-We'll always use strict equality as a best practice. You can read more about loose equality in the [Loose Equality Level Up](../level-up/loose-equality.md).
+We'll always use strict equality as a best practice.
 
 ## Relational operators
 

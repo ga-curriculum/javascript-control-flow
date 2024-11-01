@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Branching](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Branching</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be proficient in using JavaScript's `if...else` statements for conditional logic in programming.
 
@@ -44,7 +47,7 @@ if (val === 1) {
   // Since val is not 1, the else path is taken, printing 'val is not one'.
 }
 ```
-Check out the [Ternary Operator Level Up](../level-up/ternary-operator.md) for another way to write short dual path branches.
+Check out the **Ternary Operator** for another way to write short dual path branches.
 
 ### `if...else if...else`
 
@@ -82,7 +85,3 @@ Then, write a branching statement that console.logs the following based upon the
 - If the value is anything else, log `'Whatever'`
 
 Manipulate the value of `color` to ensure you're able to log all of the above values.
-
-## `switch`
-
-The `switch` statement can also be used for branching, but is less common than the branching techniques above. Check out the [`switch` Level Up](../level-up/switch.md) for more.

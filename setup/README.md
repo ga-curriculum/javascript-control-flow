@@ -1,23 +1,27 @@
-# ![JavaScript Control Flow - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
 ```bash
 cd ~/code/ga/lectures
 ```
-Make a new directory called `js-control-flow`, then enter this directory:
+
+Make a new directory called `javascript-control-flow`, then enter this directory:
 
 ```bash
-mkdir js-control-flow
-cd js-control-flow
+mkdir javascript-control-flow
+cd javascript-control-flow
 ```
 
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:
 
-
 ```bash
 touch index.html app.js
 ```
+
 With the files created, open the contents of the directory in VS Code:
 
 ```bash

@@ -1,4 +1,7 @@
-# ![JavaScript Control Flow - Looping](./assets/hero.png)
+<h1>
+  <span class="headline">JavaScript Control Flow</span>
+  <span class="subhead">Looping</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to compose a `for` loop to repeat specific blocks of code.
 
@@ -83,7 +86,3 @@ Sample Output:
 ```
 
 Check out this documentation on the [exponentiation operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation) if you need a hint.
-
-## `while` and `do...while`
-
-Curious about other ways to write looping code? Check out the [`while` Level Up](../level-up/while.md) and [`do...while` Level Up](../level-up/do-while.md) to see some more uncommon ways to loop in JavaScript. These looping structures offer more flexibility and can be better suited for certain scenarios compared to the `for` loop.
